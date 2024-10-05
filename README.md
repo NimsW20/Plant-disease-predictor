@@ -28,6 +28,8 @@ This application allows users to upload an image of a plant leaf, and it will an
 - Click the Predict button to run the model on the uploaded image.<br>
 - The system will display the image along with the predicted disease (or healthy status) and relevant information.
 
+![app_img](https://github.com/NimsW20/Plant-disease-predictor/blob/f92954ee1fe25b293626ddc1943b6e9c459cd72b/image.png)
+
 ## 📊 Model Architecture
 The core model is built using Convolutional Neural Networks (CNN) and has been trained on a large dataset of plant leaves with 38 different disease categories. Here's a brief overview of the architecture:
 
